@@ -10,7 +10,6 @@ O objetivo é testar a sensibilidade a variações mínimas de input — especia
 ## Estrutura
 
 - `listener.py` — script principal de análise
-- `fragmento.txt` — elemento simbólico opcional
 - `README.md` — este documento
 
 ---
